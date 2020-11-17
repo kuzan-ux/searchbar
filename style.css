@@ -1,0 +1,34 @@
+body {
+	background-image: url(12345.png);
+	background-size: cover;
+}
+
+.div {
+	text-align: center;
+}
+
+h2 {
+	color: #FF6347;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: serif;
+	margin: 40px 0px;
+}
+
+.box {
+	width: 30%;
+	padding: 12px 20px;
+    margin: 20px 0px;
+    box-sizing: border-box;
+}
+
+input[type=text] {
+	font-family: cursive;
+	font-style: oblique;
+	font-size: 20px
+}
+
+.enter {
+	padding: 10px 15px;
+    margin: 10px 0px;
+}
